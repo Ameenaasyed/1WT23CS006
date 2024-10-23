@@ -6,3 +6,6 @@ Section : B
 Branch : Computer Science
 Year of Admission : 2023
 College Name : GITW
+School Name: New Holy Cross English School
+PUC : NMKRV PU college
+UG degree : BE computer science and Engineering
