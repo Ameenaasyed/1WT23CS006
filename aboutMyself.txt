@@ -6,3 +6,6 @@ Section: B
 Branch: Computer Science
 Year of Admission: 2023
 College Name: GITW
+School Name: NHCES
+PU College: NMKRV PU College
+UG Degree: Computer Science and Engineering
